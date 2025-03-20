@@ -1,4 +1,4 @@
-# IT Home Lab Portfolio
+# Home Lab Portfolio
 
 Hello!
 
